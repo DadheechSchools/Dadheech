@@ -2,7 +2,16 @@
 
 Welcome to the official website repository of **Dadheech Memorial Public School** — a modern, responsive, and student-friendly platform built to represent the school's values, academic excellence, and vibrant community life.
 
-![Dadheech School Banner](https://your-image-url-if-any)
+<!-- Markdown image syntax -->
+<!-- ![Dadheech Prospectus](./Dadheech%20Prospectus.jpeg) -->
+
+<!-- Use this instead -->
+<p align="center">
+  <img src="./Dadheech%20Prospectus.jpeg" alt="Dadheech Prospectus" width="500" />
+</p>
+
+
+
 
 ---
 
