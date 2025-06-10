@@ -23,7 +23,7 @@ This project is a fully responsive school website designed for **Dadheech Memori
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site]([https://your-deployed-site-url](https://dadheechschools.github.io/Dadheech/))
+👉 [Click here to view the live site]([https://your-deployed-site-url](https://dadheechschools.github.io/Dadheech/])
 
 ---
 
